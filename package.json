@@ -1,0 +1,10 @@
+{
+    "name": "element-web-azure-pulumi",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/azure": "^3.0.0",
+        "@pulumi/pulumi": "^2.0.0"
+    }
+}

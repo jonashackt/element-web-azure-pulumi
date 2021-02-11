@@ -1,0 +1,4 @@
+name: element-web-azure-pulumi
+runtime: nodejs
+description: Project to provision a vector-im / element-web Server with Pulumi on
+  Azure
